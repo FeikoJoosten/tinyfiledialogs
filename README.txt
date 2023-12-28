@@ -1,3 +1,7 @@
+## Official version hosted at https://sourceforge.net/projects/tinyfiledialogs/
+
+This version is _not_ official and is currently updated as required by https://github.com/FeikoJoosten/GameEngineFramework only
+
 SPDX-License-Identifier: ZLIB
 
 ********* TINY FILE DIALOGS OFFICIAL WEBSITE IS ON SOURCEFORGE *********
